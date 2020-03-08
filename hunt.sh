@@ -7,6 +7,7 @@ echo -e "
 ###########  coded by interneturtle   ############
 #############################################
 "
+echo -e "(Must be logged in)"
 echo -e " password "
 echo " https://github.com/search?q=%22$1%22+password&type=Code "
 echo -e " \ndockercfg "
