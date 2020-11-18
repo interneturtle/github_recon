@@ -4,7 +4,7 @@
 
 echo -e "
 ############ GITHUB DORK SCANNER ############
-###########  coded by malwaredaily  ############
+###########  coded by siaxusta  ############
 #############################################
 "
 echo -e "(Must be logged in)"
